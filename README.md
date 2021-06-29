@@ -23,9 +23,9 @@ Tools learned in the Public Health Data Science program (R, Git, Markdown) are r
 
 | Assignment | \% Grade |
 |--------|-------:|
-| Final report    | 60   | 
-| Peer Review of Report    | 10   | 
-| Project Presentation    | 10   | 
-| Progress Reports (2)    | 10   | 
 | Class meetings    | 10   | 
+| Progress Reports (2)     | 10   | 
+| Peer Review of Report    | 10   | 
+| Project Presentation  | 10   | 
+| Final Report    | 60   | 
 
