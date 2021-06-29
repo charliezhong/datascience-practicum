@@ -10,7 +10,22 @@ Through this practicum course, students will:
 - apply the various data science skills studied in the Health Data Science curriculum toward solving a real-world health data challenge 
 - learn to handle the difficulties associated with defining and organizing a data science problem 
 - learn to present and sell ideas to a broad audience, including technical managers, business teams, and stakeholders
-- work to meet aggressive deadlines in a multidisciplinary team effort 
-- improve presentation skills, both in-class and industry settings
+- work to meet aggressive deadlines
+- improve presentation skills
 - learn to write an effective report 
-- understand how to work with individuals from diverse domains (statistics, engineering, healthcare, business, etc.) to accomplish a common goal
+- understand how to work with individuals from diverse domains to accomplish a common goal
+
+### Technological Proficiency and Hardware/Software Required
+
+Tools learned in the Public Health Data Science program (R, Git, Markdown) are required for this practicum.
+
+### Grading Breakdown
+
+| Assignment | \% Grade |
+|--------|-------:|
+| Final report    | 60   | 
+| Peer Review of Report    | 10   | 
+| Project Presentation    | 10   | 
+| Progress Reports (2)    | 10   | 
+| Class meetings    | 10   | 
+
