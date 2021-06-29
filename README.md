@@ -1,5 +1,7 @@
 ## PM606 Health Data Science Practicum
 
+### Summer 2021: May 25-August 10, Tuesdays 1pm on Zoom
+
 ### Course Description
 
 This course serves as the practicum for the Public Health Data Science program. In this course, students will work to tackle the challenges involved in analyzing an external medical research or healthcare industry dataset.  
