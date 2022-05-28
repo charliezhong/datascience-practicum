@@ -1,6 +1,6 @@
 ## PM606 Health Data Science Practicum
 
-### Summer 2021: May 24-August 9, Tuesdays 1pm on Zoom
+### Summer 2022: May 24-August 9, Tuesdays 1pm on Zoom
 
 ### Course Description
 
